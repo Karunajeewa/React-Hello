@@ -1,0 +1,20 @@
+.Post {
+    position: absolute;
+    text-align: center;
+    border: solid 1px black;
+    padding: 5px;
+    color: blue;
+    width: 500px;
+    left: 30%;
+
+}
+.Next {
+    color: red;
+    padding-top: 100px;
+    position: absolute;
+    border: solid 1px black;
+    width: 510px;
+    height: 100px;
+    left: 30%;
+    text-align: center;
+}
